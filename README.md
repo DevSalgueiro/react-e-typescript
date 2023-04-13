@@ -1,1 +1,1 @@
-# Estudo/prática de React + typescript
+# Study/practice of React + TypeScript
